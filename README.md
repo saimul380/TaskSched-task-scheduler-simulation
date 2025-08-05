@@ -86,3 +86,4 @@ Random task in 30 sec :
 This chart visualizes task execution order and duration using different CPU scheduling algorithms:
 
 ![Gantt Chart](gantt_chart.png)
+<img width="2380" height="1254" alt="image" src="https://github.com/user-attachments/assets/259c61b9-f200-457c-a757-b6b03c7b8540" />
